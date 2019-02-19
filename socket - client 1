@@ -17,3 +17,4 @@ while True :
         print("Connection is closed by client")
         server_socket.close()
         break
+        
